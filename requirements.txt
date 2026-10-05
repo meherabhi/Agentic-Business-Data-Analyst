@@ -1,0 +1,2 @@
+# No third-party dependencies. Python 3.11+ standard library only
+# (sqlite3, random, hashlib, re, json). numpy / pandas / sklearn are not used.
